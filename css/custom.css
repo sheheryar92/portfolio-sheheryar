@@ -1,0 +1,77 @@
+.email {
+    text-decoration: none;
+}
+
+.work_img {
+    display: flex;
+    flex-direction: column;
+  
+    text-align: center;
+    justify-content: flex-start;
+}
+
+
+
+.ting_dog_img {
+    width: 20%;
+    
+}
+
+.work_name {
+    margin-top: 8%;
+    display: flex;
+    justify-content: center;
+}
+.work_section {
+    display:  flex;     padding-left: 3rem;
+            padding-right: 3rem;
+            padding-top: 5rem;
+            padding-bottom: 5rem;     min-height: 100vh; align-items: center;
+}
+.work_div {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.img_intrest {
+    max-width: 50%;
+}
+
+.intrest_img_center{
+    display: flex;
+    justify-content: center;
+}
+
+.intrest_row{
+    align-items: center;
+}
+.dota {
+    background-image: url('https://mir-s3-cdn-cf.behance.net/project_modules/fs/c19a3457384241.59d3d150de7ee.gif');
+  width: 250px;
+  height: 250px;
+  background-size: cover;
+   background-position: center;
+}
+.music {
+    background-image: url('https://i.pinimg.com/736x/c4/91/9b/c4919b09348af2709bd67073afecc8a0--i-love-house-house-music.jpg');
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+     background-position: center;
+}
+.code {
+    background-image: url('https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true');
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+     background-position: center;
+}
+
+.img-fluid-work {
+
+    max-width: 250px;
+    max-height: 250px;
+    width: 100%;
+    height: 100%;
+}
